@@ -119,7 +119,24 @@ public class Lesson_3 {
 //            default:
 //                System.out.println("Read conditions!");
 
-        }
+        //    Task_5
+
+//        System.out.println("TASK 5" + "\n");
+//        for (int iFive = 0; iFive <= 99; iFive++) {
+//            if (iFive % 2 == 0 && iFive!=0) {
+//                System.out.println(iFive);
+//            } else {
+//                {
+//                }
+//            }
+//        }
+
+        //    Task_6
+
+//        System.out.println("TASK 6" + "\n");
+//        for (int iSix=5; iSix>=1; iSix--){
+//            System.out.println(iSix);
+//        }
 
     }
 }
