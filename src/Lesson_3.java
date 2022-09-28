@@ -138,5 +138,23 @@ public class Lesson_3 {
 //            System.out.println(iSix);
 //        }
 
+//            Task_7
+
+//        System.out.println("TASK 7" + "\n");
+//        System.out.println("Write integer data: ");
+//        Scanner DataSeven = new Scanner(System.in);
+//        int DataTaskSeven = DataSeven.nextInt();
+//        int Summ=0;
+//        int SecondPart = DataTaskSeven;
+//        for (; DataTaskSeven > 0; DataTaskSeven /= 10) {
+//            System.out.println(DataTaskSeven % 10);
+//            Summ += DataTaskSeven % 10;
+//        }
+//        System.out.println("Summa separate data: " + Summ);
+//        System.out.println("SECOND PART:");
+//        for (int iSeven = 1; iSeven <= SecondPart; iSeven++) {
+//            System.out.println(iSeven);
+//        }
+
     }
 }
